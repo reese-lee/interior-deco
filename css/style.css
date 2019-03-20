@@ -2,6 +2,21 @@
   width: 400px;
   float: left;
   background-color: #e5b0a2;
+  padding: 20px;
+}
+
+.column1 {
+  width: 400px;
+  float: left;
+  background-color: #7a1a1a;
+  padding: 20px;
+}
+
+.column2 {
+  width: 400px;
+  float: left;
+  background-color: #b57500;
+  padding: 20px;
 }
 
 img {
